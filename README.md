@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Passionate about machine learning, software engineering, and building innovative solutions. Currently pursuing Master's in Computer Science at Georgia Institute of Technology.
+
+Take a look at my portfolio here: [harshithlanka.com](https://harshithlanka.com)
+
 <!--
 **harshithlanka3/harshithlanka3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
